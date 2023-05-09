@@ -1,4 +1,2 @@
 # WerkzeugeInformatik #
 #############
-
-Änderung
