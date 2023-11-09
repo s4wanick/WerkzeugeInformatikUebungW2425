@@ -7,8 +7,11 @@ public class Main {
         Car car2 = new Car("blue", "Audi", 3);
         Car car3 = new Car("blue", "VW", 3);
 
+        Car car4 = new Car("yellow", "Renault", 4);
+
         factory.buildCar(car1);
         factory.buildCar(car2);
-	  factory.buildCar(car2);	
+
     }
 }
+
