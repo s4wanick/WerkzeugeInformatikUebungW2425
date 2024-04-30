@@ -1,8 +1,7 @@
 # WerkzeugeInformatik #
 #############
 
-Hallo Hallo
- Hallo  
+Hallo Hallo 
 Markdown Cheatsheet
 
 Element	| Markdown Syntax
